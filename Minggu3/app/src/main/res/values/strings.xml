@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Minggu-3</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">message</string>
+    <string name="send">send</string>
+    <string name="reminder">reminder</string>
+    <string name="done">done</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string-array name="dates">
+        <item>Wed, June 27,2021 </item>
+    </string-array>
+    <string-array name="times">
+        <item>8:00 am </item>
+    </string-array>
+</resources>

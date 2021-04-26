@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas07</string>
+    <string name="add_text">add text</string>
+    <string name="click_to_view">Click tio View</string>
+    <string name="save_as_public">Save as Public</string>
+    <string name="save_as_private">Save as Private</string>
+    <string name="show_public_data">Show Public Data</string>
+    <string name="show_provate_data">Show Private Data</string>
+    <string name="back">Back</string>
+</resources>
